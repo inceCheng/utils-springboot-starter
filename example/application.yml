@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: demo-app
+
+# 工具类配置
+ince:
+  utils:
+    enabled: true
+    success-message: "操作成功" 
